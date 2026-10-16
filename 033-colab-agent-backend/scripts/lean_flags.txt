@@ -1,0 +1,1 @@
+--disable apps --disable multi_agent --disable goals --disable plugins --disable skill_search --disable image_generation --disable tool_suggest --disable browser_use --disable computer_use --disable unified_exec --disable view_image
