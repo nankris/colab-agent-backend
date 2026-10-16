@@ -1,0 +1,4 @@
+start 1792011503 jobs=1 P=1
+errors: ['Model metadata for `qwen3-coder:30b` not found. Defaulting to fallback metadata; this can degrade performance and cause issues.']
+{"cond": "colab_qwen3coder30b", "task": "T01_happy", "rep": 1, "passed": 0, "subtests_passed": "", "total_tokens": 65894, "cached_input_tokens": 5, "est_cost_usd": 0.13461, "model_calls": 2, "compactions": 0, "wall_s": 83.6, "limit_error": "", "retries": 0, "rl_primary_used_pct": ""}
+done 1792011587

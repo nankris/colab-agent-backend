@@ -1,0 +1,3 @@
+2026-10-14T20:58:31.512550Z ERROR codex_models_manager::manager: failed to refresh available models: stream disconnected before completion: failed to decode models response: Data at line 1 column 110 (body: 111 bytes)
+2026-10-14T20:58:31.602911Z ERROR codex_models_manager::manager: failed to refresh available models: stream disconnected before completion: failed to decode models response: Data at line 1 column 110 (body: 111 bytes)
+2026-10-14T20:59:14.329189Z ERROR codex_core::tools::router: error=unsupported call: mcp__codex_apps__run_javascript

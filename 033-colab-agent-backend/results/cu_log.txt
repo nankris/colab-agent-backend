@@ -1,0 +1,6 @@
+1792011820 before_colab_arm Current balance: 191.50 compute units Usage rate: 5.22/hr Active assignments: 4 
+[tig039b] gpu-l4-s-kkb-ass1b0-37f3kma6i9toq | Hardware: L4 | Shape: Standard | Variant: GPU
+[codex-033] gpu-l4-s-kkb-asso1b2-1cnbv5gjt86fm | Hardware: L4 | Shape: Standard | Variant: GPU
+[tig039] gpu-t4-s-kkb-usw1b2-3g3quee9brqzi | Hardware: T4 | Shape: Standard | Variant: GPU
+[claude-038-4b] gpu-t4-s-kkb-usw4a1-3vp7apnyi7qr0 | Hardware: T4 | Shape: Standard | Variant: GPU
+1792012350 after_colab_arm Current balance: 191.06 compute units Usage rate: 4.15/hr Active assignments: 3 

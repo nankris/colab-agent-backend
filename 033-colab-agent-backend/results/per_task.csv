@@ -1,0 +1,12 @@
+task,codex_default_passes,codex_default_wall_mean_s,codex_default_tokens_mean,codex_default_lean_passes,codex_default_lean_wall_mean_s,codex_default_lean_tokens_mean,colab_qwen3coder30b_passes,colab_qwen3coder30b_wall_mean_s,colab_qwen3coder30b_tokens_mean
+T01_happy,2/2,13.1,59046,2/2,15.4,42140,2/2,15.1,41772
+T02_duplicate,2/2,15.5,59100,2/2,12.6,42452,0/2,23.7,45980
+T03_whitespace,2/2,17.2,59091,2/2,14.8,42120,2/2,17.8,38074
+T04_tabs,2/2,18.4,58942,2/2,13.4,42196,2/2,24.5,68655
+T05_stale,2/2,27.6,58774,2/2,17.4,41936,2/2,21.8,48821
+T06_neardup,2/2,15.8,59212,2/2,13.4,42434,1/2,48.3,123118
+T07_multihunk,2/2,16.1,59069,2/2,15.2,42220,2/2,22.4,55104
+T08_insert,2/2,29.4,58882,2/2,77.3,41956,2/2,19.0,45388
+T09_delete,2/2,18.5,59037,2/2,12.9,42248,2/2,18.7,45497
+T10_replace_all,2/2,30.0,59302,2/2,17.5,47788,2/2,20.8,42248
+T11_shortctx,2/2,14.0,58994,2/2,12.9,42376,2/2,21.4,52419

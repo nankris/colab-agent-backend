@@ -1,0 +1,4 @@
+arm,runs,passed,pass_rate,timeouts,wall_mean_s,wall_median_s,total_tokens_mean,output_tokens_mean,model_calls_mean,api_equiv_usd_per_task,cu_session_total,cu_per_task_incl_setup,cu_per_task_runtime_only,usd_per_task_incl_setup,usd_per_task_runtime_only,api_equiv_if_gpt61sol_prices
+codex_default,22,22,1.0,0,19.6,16.8,59041,292,4.0,0.0191,,,,,,
+codex_default_lean,22,22,1.0,0,20.2,14.7,42715,296,4.05,0.034,,,,,,
+colab_qwen3coder30b,22,19,0.864,0,23.0,21.4,55189,787,8.82,0.0157,1.213,0.0551,0.0099,0.0055,0.001,0.0157

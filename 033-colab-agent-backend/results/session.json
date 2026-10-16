@@ -1,0 +1,15 @@
+{
+ "session": "codex-033",
+ "gpu": "L4",
+ "start_epoch": 1792011059,
+ "balance_at_start": 192.71,
+ "stop_epoch": 1792013895,
+ "stop_source": "colab log -s codex-033: session_terminated 2026-10-14 21:38:15 UTC (sandbox reboot killed the tunnel at ~21:17; runtime ended without an explicit stop being logged by this repo)",
+ "session_hours": 0.788,
+ "cu_rate_per_h": 1.54,
+ "cu_rate_source": "colab usage readings: 4 assignments (2xL4+2xT4)=5.22/h, 3 (2xL4+1xT4)=4.15/h, 2xL4=3.08/h -> L4=1.54 CU/h",
+ "cu_session": 1.213,
+ "cu_useful_window": 0.545,
+ "setup_s_alloc_to_first_task": 764,
+ "alloc_wait_s": 2383
+}

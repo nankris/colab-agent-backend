@@ -1,0 +1,5 @@
+{"type":"thread.started","thread_id":"01a13c35-a4cf-7ba2-abb3-05479a3cbf03"}
+{"type":"item.completed","item":{"id":"item_0","type":"error","message":"Model metadata for `qwen3-coder:30b` not found. Defaulting to fallback metadata; this can degrade performance and cause issues."}}
+{"type":"turn.started"}
+{"type":"item.completed","item":{"id":"item_1","type":"agent_message","text":"I cannot execute JavaScript code in this environment. My capabilities are limited to the tools and functions available to me. Is there something else I can assist you with?<tool_call>"}}
+{"type":"turn.completed","usage":{"input_tokens":65540,"cached_input_tokens":5,"cache_write_input_tokens":0,"output_tokens":354,"reasoning_output_tokens":0}}
